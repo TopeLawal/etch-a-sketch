@@ -5,7 +5,7 @@ let click = true;
 function populateBoard(size) {
     let board = document.querySelector('.board');
     board.style.width = "500px";
-    board.style.height = "500px";
+    board.style.height = "400px";
 
     
 
